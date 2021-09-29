@@ -10,5 +10,7 @@
 int main()
 {
    printf("Hello, World!");
+   printf("Hello, Univense! and Galaxy!");
+   
    return 0;
 }
